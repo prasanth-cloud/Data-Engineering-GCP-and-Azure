@@ -1,2 +1,29 @@
 Day - 1
-Today we will be going through introduction to python and what are the things that we needed to know in python.
+Today we will be going through introduction to python and what are the things that we will be learning in python for data engineering.
+1. Variables , Operators , Keywords
+2. For loop
+3. Functions
+4. Datatypes
+5. Conditionals
+6. While loop
+7. Break and Continue
+8. Strings
+9. Lists
+10. Tuples 
+11. Sets
+12. Object Oriented programming
+13. Data structures (stack and queue)
+14. List Comprehension 
+15. 2D lists
+16. Slicing, Sorting , Indexing
+17. List of strings 
+18. Dictionary
+19. Time Complexity
+20. Recursion
+21. Exception Handling 
+22. Working with different file formats 
+23. Read and Write files 
+24. Working with date formats
+
+These are the basic things that will be beneficial in learning to become a Data Engineer 
+
