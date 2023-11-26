@@ -1,1 +1,54 @@
+The services that you will be using in azure for azure Data Engineering are:
+Azure provides a comprehensive set of services for data engineering, offering a range of tools to ingest, process, store, and analyze data. Depending on the specific requirements of your data engineering tasks, you might use a combination of the following Azure services:
 
+1. Azure Data Factory:
+   - Purpose: For orchestrating and automating data workflows.
+   - Features: Data ingestion, transformation, and movement at scale.
+   - Use Cases: ETL (Extract, Transform, Load) processes, data movement across different sources and destinations.
+
+2. Azure Databricks:
+   - Purpose: Unified analytics platform for big data and machine learning.
+   - Features: Apache Spark-based analytics, collaborative notebooks, and data engineering capabilities.
+   - Use Cases: Data transformation, big data processing, machine learning.
+
+3. Azure Synapse Analytics (formerly SQL Data Warehouse):
+   - Purpose: Integrated analytics service for data warehousing and big data analytics.
+   - Features: Data storage, real-time analytics, data warehousing, and big data processing.
+   - Use Cases: Data warehousing, complex analytics, large-scale data processing.
+
+4. Azure HDInsight:
+   - Purpose: Managed Apache Hadoop, Spark, and other big data services.
+   - Features: Big data processing, analytics, and machine learning with various open-source frameworks.
+   - Use Cases: Big data processing, analytics, and machine learning.
+
+5. Azure Stream Analytics:
+   - Purpose: Real-time analytics on streaming data.
+   - Features: Ingest, process, and analyze streaming data.
+   - Use Cases: Real-time monitoring, fraud detection, IoT analytics.
+
+6. Azure Blob Storage:
+   - Purpose: Object storage service for unstructured data.
+   - Features: Scalable and secure storage for various data types.
+   - Use Cases: Storing raw data, intermediate datasets, or final outputs.
+
+7. Azure SQL Database:
+   - Purpose: Fully managed relational database service.
+   - Features: Reliable and secure relational database capabilities.
+   - Use Cases: Storing structured data, serving as a data source for analytics.
+
+8. Azure Data Lake Storage:
+   - Purpose: Scalable and secure data lake storage.
+   - Features: Hierarchical file system, support for big data analytics.
+   - Use Cases: Storing large volumes of structured and unstructured data.
+
+9. Azure Data Explorer:
+   - Purpose: Fast and highly scalable data exploration service.
+   - Features: Real-time analytics and exploration of large datasets.
+   - Use Cases: Log analytics, time-series data analysis.
+
+10. Azure Logic Apps:
+    - Purpose: Automate workflows and integrate services.
+    - Features: Visual design for workflow creation, extensive connector library.
+    - Use Cases: Workflow automation, integration of different services.
+The most used services from the above mentioned services are Azure Datafactory, Azure Databricks, Azure Synapse Analytics, Azure Data Lake Storage and Azure Stream Analytics.
+This is based on my experience and based on the projects which i have worked on, and also it differs according the requirement and the problem they are solving.
